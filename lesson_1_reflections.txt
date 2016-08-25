@@ -33,13 +33,13 @@ files in one commit, while others, like Google Docs, treat each file separately?
 
 Fill in your answer here
 
-  
+  so that you can view how how these files were at the same moment in time 
 
 How can you use the commands git log and git diff to view the history of files?
 
     
 
-Fill in your answer here   
+Fill in your answer here  git log can show you the history of your commits and graph the branching system of your repository, while git diff can show the changes between these commits  
 
 
 
